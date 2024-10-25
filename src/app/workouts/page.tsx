@@ -1,4 +1,3 @@
-'use client'
 import WorkoutScreen from "./components/WorkoutScreen";
 
 const Workouts = () => {
